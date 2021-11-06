@@ -8,6 +8,8 @@ flask = "==1.1.2"
 pynamodb = "*"
 flask-script = "*"
 flask-login = "*"
+flask-sessionstore = "*"
+boto3 = "*"
 
 [dev-packages]
 
